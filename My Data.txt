@@ -1,0 +1,8 @@
+Tailwind css
+flowbite react
+insomnia api testing
+redux toolkit -> to save information(data we got through signing in) in frontend as a global state
+
+firebase
+
+-> created user name by email entered during sign in with google(if email already not exist in database) added 4 numbers to create username and created random password for user ass well so user can change it after login with email for first time.
