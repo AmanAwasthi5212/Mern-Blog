@@ -26,6 +26,9 @@ export default function About() {
               other readers. You can like other people's comments and reply to
               them as well. We believe that a community of learners can help
               each other grow and improve.
+              <br/>
+              <br/>
+              Contact: 202212077@daiict.ac.in
             </p>
           </div>
         </div>
