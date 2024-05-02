@@ -47,14 +47,14 @@ export default function FooterCom() {
                 >
                   Github
                 </Footer.Link>
-                <Footer.Link href='#'>Discord</Footer.Link>
+                <Footer.Link href='www.linkedin.com/in/aman-awasthi5212'>LinkedIn</Footer.Link>
               </Footer.LinkGroup>
             </div>
             <div>
               <Footer.Title title='Legal' />
               <Footer.LinkGroup col>
-                <Footer.Link href='#'>Privacy Policy</Footer.Link>
-                <Footer.Link href='#'>Terms &amp; Conditions</Footer.Link>
+                <Footer.Link href='/about'>Privacy Policy</Footer.Link>
+                <Footer.Link href='/about'>Terms &amp; Conditions</Footer.Link>
               </Footer.LinkGroup>
             </div>
           </div>
@@ -67,11 +67,10 @@ export default function FooterCom() {
             year={new Date().getFullYear()}
           />
           <div className="flex gap-6 sm:mt-0 mt-4 sm:justify-center">
-            <Footer.Icon href='#' icon={BsFacebook}/>
-            <Footer.Icon href='#' icon={BsInstagram}/>
-            <Footer.Icon href='#' icon={BsTwitter}/>
+            <Footer.Icon href='https://www.facebook.com/profile.php?id=100012818881334&mibextid=ZbWKwL' icon={BsFacebook}/>
+            <Footer.Icon href='https://www.instagram.com/amanawsthii?igsh=MTAzMGg0NnZra2dnMg==' icon={BsInstagram}/>
+            <Footer.Icon href='https://twitter.com/' icon={BsTwitter}/>
             <Footer.Icon href='https://github.com/AmanAwasthi5212' icon={BsGithub}/>
-            <Footer.Icon href='#' icon={BsDribbble}/>
 
           </div>
         </div>
